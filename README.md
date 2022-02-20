@@ -21,3 +21,4 @@ This Repository contains my solutions to 30 Days Code Challenge February 2022 on
 17. <a href="https://github.com/michaelehab/LeetCode-February-Challenge-2022/blob/main/39.Combination-Sum.cpp">Combination Sum</a>
 18. <a href="https://github.com/michaelehab/LeetCode-February-Challenge-2022/blob/main/402.Remove-K-Digits.cpp">Remove K Digits</a>
 19. <a href="https://github.com/michaelehab/LeetCode-February-Challenge-2022/blob/main/1675.Minimize-Deviation-in-Array.cpp">Minimize Deviation in Array</a>
+20. <a href="https://github.com/michaelehab/LeetCode-February-Challenge-2022/blob/main/1288.Remove-Covered-Intervals.cpp">Remove Covered Intervals</a>
