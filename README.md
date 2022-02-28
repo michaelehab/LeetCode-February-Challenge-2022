@@ -1,9 +1,4 @@
 # 🏅February LeetCoding Challenge! 🏅
-
-<p align="center">
-  <img src="https://github.com/michaelehab/LeetCode-February-Challenge-2022/blob/main/images/completed_challenge.jpg">
-</p>
-
 ## Introduction
 This Repository contains my solutions to February LeetCoding Challenge 2022 problems.
 * I strongly advise you to try to solve problems on your own before looking at the solutions provided here.
