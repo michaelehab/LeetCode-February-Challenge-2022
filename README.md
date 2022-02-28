@@ -4,8 +4,9 @@ This Repository contains my solutions to February LeetCoding Challenge 2022 prob
 * I strongly advise you to try to solve problems on your own before looking at the solutions provided here.
 * Solutions and approaches may not be optimal.
 * All Solutions here are in C++.
+* Checkout my LeetCode profile at https://leetcode.com/michaelehab/
 
-## Problems
+## Solutions
 1. <a href="https://github.com/michaelehab/LeetCode-February-Challenge-2022/blob/main/121.Best-Time-to-Buy-and-Sell-Stock.cpp">Best Time to Buy and Sell Stock</a>
 2. <a href="https://github.com/michaelehab/LeetCode-February-Challenge-2022/blob/main/438.Find-All-Anagrams-in-a-String.cpp">Find All Anagrams in a String</a>
 3. <a href="https://github.com/michaelehab/LeetCode-February-Challenge-2022/blob/main/454.4Sum-II.cpp">4Sum II</a>
