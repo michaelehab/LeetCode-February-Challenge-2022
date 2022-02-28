@@ -1,4 +1,4 @@
-# LeetCode-February-Challenge-2022
+# LeetCode February Challenge 2022
 This Repository contains my solutions to 30 Days Code Challenge February 2022 on Leetcode
 
 ## Problems
@@ -29,3 +29,4 @@ This Repository contains my solutions to 30 Days Code Challenge February 2022 on
 25. <a href="https://github.com/michaelehab/LeetCode-February-Challenge-2022/blob/main/165.Compare-Version-Numbers.cpp">Compare Version Numbers</a>
 26. <a href="https://github.com/michaelehab/LeetCode-February-Challenge-2022/blob/main/847.Shortest-Path-Visiting-All-Nodes.cpp">Shortest Path Visiting All Nodes</a>
 27. <a href="https://github.com/michaelehab/LeetCode-February-Challenge-2022/blob/main/662.Maximum-Width-of-Binary-Tree.cpp">Maximum Width of Binary Tree</a>
+28. <a href="https://github.com/michaelehab/LeetCode-February-Challenge-2022/blob/main/228.Summary-Ranges.cpp">Summary Ranges</a>
