@@ -1,5 +1,14 @@
-# LeetCode February Challenge 2022
-This Repository contains my solutions to 30 Days Code Challenge February 2022 on Leetcode
+# 🏅February LeetCoding Challenge! 🏅
+
+<p align="center">
+  <img src="https://github.com/michaelehab/LeetCode-February-Challenge-2022/blob/main/images/completed_challenge.jpg">
+</p>
+
+## Introduction
+This Repository contains my solutions to February LeetCoding Challenge 2022 problems.
+* I strongly advise you to try to solve problems on your own before looking at the solutions provided here.
+* Solutions and approaches may not be optimal.
+* All Solutions here are in C++.
 
 ## Problems
 1. <a href="https://github.com/michaelehab/LeetCode-February-Challenge-2022/blob/main/121.Best-Time-to-Buy-and-Sell-Stock.cpp">Best Time to Buy and Sell Stock</a>
